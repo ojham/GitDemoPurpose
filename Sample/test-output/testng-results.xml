@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27218" started-at="2019-08-27T12:41:08Z" finished-at="2019-08-27T12:41:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27218" started-at="2019-08-27T12:41:08Z" finished-at="2019-08-27T12:41:36Z">
+      <class name="naukri.NaukriAutomation">
+        <test-method status="PASS" signature="inilization()[pri:0, instance:naukri.NaukriAutomation@64f6106c]" name="inilization" is-config="true" duration-ms="18577" started-at="2019-08-27T12:41:08Z" finished-at="2019-08-27T12:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inilization -->
+        <test-method status="PASS" signature="updateProfile()[pri:0, instance:naukri.NaukriAutomation@64f6106c]" name="updateProfile" duration-ms="4271" started-at="2019-08-27T12:41:27Z" finished-at="2019-08-27T12:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProfile -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:naukri.NaukriAutomation@64f6106c]" name="logout" is-config="true" duration-ms="4326" started-at="2019-08-27T12:41:31Z" finished-at="2019-08-27T12:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- naukri.NaukriAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
