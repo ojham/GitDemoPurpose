@@ -109,8 +109,8 @@ public class NaukriAutomation {
 		
 		
 	}
-	
-	@Test(invocationCount=1)
+
+	@Test(invocationCount=7)
 	public void updateProfile() throws InterruptedException{
 		
 		
