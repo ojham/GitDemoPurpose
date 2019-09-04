@@ -31,9 +31,9 @@ public class Bubblesort {
           
           System.out.println(Max-Min);
 		
-		for(int k:A){
-			System.out.println(k);
-		}
+          for(int k:A){
+  			System.out.println(k);
+  		}
 	}
 
 }
